@@ -10,7 +10,10 @@ I'm a student learning software development and GitHub.
 
 ## Setup
 
-Paste your `git config --global --list` output here.
+user.name=Ezra
+user.email=ezrawambugu@gmail.com
+init.defaultbranch=main
+core.sshcommand=C:/Windows/System32/OpenSSH/ssh.exe
 
 ## Goals
 

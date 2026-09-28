@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ezra 👋
 
-<!--
-**Ezz1776/Ezz1776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student learning software development and GitHub.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm currently learning programming and web development.
+- I'm interested in technology and automotive engineering.
+- I'm building my skills through the IYF Weekend Academy.
+
+## Setup
+
+Paste your `git config --global --list` output here.
+
+## Goals
+
+- Learn Git and GitHub
+- Improve my programming skills
+- Build useful projects

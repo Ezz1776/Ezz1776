@@ -5,7 +5,7 @@ I'm a student learning software development and GitHub.
 ## About Me
 
 - I'm currently learning programming and web development.
-- I'm interested in technology and automotive engineering.
+- I'm interested in technology and mechanical engineering.
 - I'm building my skills through the IYF Weekend Academy.
 
 ## Setup
